@@ -1,0 +1,170 @@
+[
+  {
+    "type": "animal",
+    "bet": "Macaco",
+    "user": {
+      "name": "Pedro",
+      "phone": "45678"
+    }
+  },
+  {
+    "type": "dezena",
+    "bet": "78",
+    "user": {
+      "name": "Maria",
+      "phone": "12345"
+    }
+  },
+  {
+    "type": "milhar",
+    "bet": "5678",
+    "user": {
+      "name": "João",
+      "phone": "23456"
+    }
+  },
+  {
+    "type": "animal",
+    "bet": "Leão",
+    "user": {
+      "name": "Ana",
+      "phone": "67890"
+    }
+  },
+  {
+    "type": "dezena",
+    "bet": "34",
+    "user": {
+      "name": "Carlos",
+      "phone": "98765"
+    }
+  },
+  {
+    "type": "milhar",
+    "bet": "1234",
+    "user": {
+      "name": "Lucas",
+      "phone": "45612"
+    }
+  },
+  {
+    "type": "animal",
+    "bet": "Elefante",
+    "user": {
+      "name": "Fernanda",
+      "phone": "11122"
+    }
+  },
+  {
+    "type": "dezena",
+    "bet": "99",
+    "user": {
+      "name": "Ricardo",
+      "phone": "33344"
+    }
+  },
+  {
+    "type": "milhar",
+    "bet": "8765",
+    "user": {
+      "name": "Juliana",
+      "phone": "55566"
+    }
+  },
+  {
+    "type": "animal",
+    "bet": "Cavalo",
+    "user": {
+      "name": "Beatriz",
+      "phone": "77788"
+    }
+  },
+  {
+    "type": "dezena",
+    "bet": "56",
+    "user": {
+      "name": "Roberta",
+      "phone": "22233"
+    }
+  },
+  {
+    "type": "milhar",
+    "bet": "4321",
+    "user": {
+      "name": "Ricardo",
+      "phone": "99988"
+    }
+  },
+  {
+    "type": "animal",
+    "bet": "Gato",
+    "user": {
+      "name": "José",
+      "phone": "44455"
+    }
+  },
+  {
+    "type": "dezena",
+    "bet": "12",
+    "user": {
+      "name": "Mariana",
+      "phone": "88899"
+    }
+  },
+  {
+    "type": "milhar",
+    "bet": "6789",
+    "user": {
+      "name": "Victor",
+      "phone": "12367"
+    }
+  },
+  {
+    "type": "animal",
+    "bet": "Pato",
+    "user": {
+      "name": "Cláudia",
+      "phone": "77655"
+    }
+  },
+  {
+    "type": "dezena",
+    "bet": "45",
+    "user": {
+      "name": "Márcia",
+      "phone": "23212"
+    }
+  },
+  {
+    "type": "milhar",
+    "bet": "3456",
+    "user": {
+      "name": "Felipe",
+      "phone": "56778"
+    }
+  },
+  {
+    "type": "animal",
+    "bet": "Cachorro",
+    "user": {
+      "name": "Eduardo",
+      "phone": "99876"
+    }
+  },
+  {
+    "type": "dezena",
+    "bet": "23",
+    "user": {
+      "name": "Paula",
+      "phone": "55667"
+    }
+  },
+  {
+    "type": "milhar",
+    "bet": "2345",
+    "user": {
+      "name": "Thiago",
+      "phone": "66778"
+    }
+  }
+]

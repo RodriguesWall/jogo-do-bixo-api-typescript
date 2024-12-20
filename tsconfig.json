@@ -6,7 +6,11 @@
     "forceConsistentCasingInFileNames": true,           
     "strict": true,        
     "outDir": "./dist",
-    "rootDir": "./src"                         
+    "rootDir": "./src",
+    "typeRoots": ["./node_modules/@types", "./src/types"],  
+    "paths": {
+      "express": ["./node_modules/@types/express"]
+    },       
   },
   "include": ["src/**/*"],
   "exclude": ["node_modules"]

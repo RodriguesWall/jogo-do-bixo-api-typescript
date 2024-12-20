@@ -1,6 +1,6 @@
 import express from "express";
-import ServiceBet from "../service/index.js"
-import Validation from "../middlewares/index.js"
+import ServiceBet from "../service"
+import Validation from "../middlewares"
 
 const router = express.Router();
 
